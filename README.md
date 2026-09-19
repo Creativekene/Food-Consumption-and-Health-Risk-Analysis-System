@@ -25,6 +25,10 @@ The system was designed to:
 - Identify common risk factors.
 - Generate an overall summary of the dataset.
 
+<img width="1102" height="804" alt="Screenshot 2026-09-19 040954" src="https://github.com/user-attachments/assets/a0f465a6-b7a8-40fc-99c5-568e350ac784" />
+<img width="1119" height="820" alt="Screenshot 2026-09-19 040848" src="https://github.com/user-attachments/assets/1080a9bf-1053-46c2-89e6-0aa284f92aca" />
+<img width="1105" height="820" alt="Screenshot 2026-09-19 040932" src="https://github.com/user-attachments/assets/863bab34-ac51-46f7-b4b6-a380163b85d3" />
+
 
 
 ## Python Concepts Used
